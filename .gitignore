@@ -1,0 +1,17 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+
+# Godot 4+
+.godot/
+
+# Imported resources
+.import/
+
+# Exported builds
+build/
+dist/
+
+# macOS
+.DS_Store
